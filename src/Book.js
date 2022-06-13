@@ -31,4 +31,4 @@ const Book = ({ img, title, author }) => {
  );
 };
 
-export default Book3
+export default Book
